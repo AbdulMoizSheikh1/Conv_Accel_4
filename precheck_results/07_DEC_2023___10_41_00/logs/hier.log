@@ -1,0 +1,9 @@
+BEGIN: Thu 07 Dec 2023 11:21:01 AM UTC
+Creating /home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/tmp/verilog.cells from the following files...
+	/home/shahid/Desktop/test123/caravel_user_project/verilog/gl/user_proj_example.v
+	/home/shahid/Desktop/test123/caravel_user_project/verilog/gl/user_project_wrapper.v
+[INFO] Changing from /home/shahid/Desktop/test123/caravel_user_project/gds/user_project_wrapper.gds
+	to /home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/tmp/layout.txt
+Hierarchy check for user_project_wrapper passed.
+END: Thu 07 Dec 2023 11:21:06 AM UTC
+Runtime: 0:00:05 (hh:mm:ss)

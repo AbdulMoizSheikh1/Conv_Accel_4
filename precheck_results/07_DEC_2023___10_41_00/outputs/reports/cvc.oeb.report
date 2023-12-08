@@ -1,0 +1,39 @@
+ gpio |   in   |   out  | analog |  oeb min/sim/max  | Message
+  35  |        |      2 |        |   vss/  vss/  vss | 
+  26  |        |        |        |      /     /      | 
+  17  |        |        |        |      /     /      | 
+   4  |        |    vss |        |   vss/  vss/  vss | 
+  36  |        |      2 |        |   vss/  vss/  vss | 
+  27  |        |        |        |      /     /      | 
+  18  |        |        |        |      /     /      | 
+   5  |        |    vss |        |   vss/  vss/  vss | 
+  37  |        |      2 |        |   vss/  vss/  vss | 
+  28  |        |        |        |      /     /      | 
+  19  |        |        |        |      /     /      | 
+   6  |        |    vss |        |   vss/  vss/  vss | 
+  29  |        |        |        |      /     /      | 
+   7  |        |    vss |        |   vss/  vss/  vss | 
+   8  |        |        |        |      /     /      | 
+   9  |        |        |        |      /     /      | 
+  10  |        |        |        |      /     /      | 
+  20  |        |        |        |      /     /      | 
+  11  |        |        |        |      /     /      | 
+  30  |        |      2 |        |   vss/  vss/  vss | 
+  21  |        |        |        |      /     /      | 
+  12  |        |        |        |      /     /      | 
+  31  |        |      2 |        |   vss/  vss/  vss | 
+  22  |        |        |        |      /     /      | 
+  13  |        |        |        |      /     /      | 
+   0  |        |    vss |        |   vss/  vss/  vss | 
+  32  |        |      2 |        |   vss/  vss/  vss | 
+  23  |        |        |        |      /     /      | 
+  14  |        |        |        |      /     /      | 
+   1  |        |    vss |        |   vss/  vss/  vss | 
+  33  |        |      2 |        |   vss/  vss/  vss | 
+  24  |        |        |        |      /     /      | 
+  15  |        |        |        |      /     /      | 
+   2  |        |    vss |        |   vss/  vss/  vss | 
+  34  |        |      2 |        |   vss/  vss/  vss | 
+  25  |        |        |        |      /     /      | 
+  16  |        |        |        |      /     /      | 
+   3  |        |    vss |        |   vss/  vss/  vss | 

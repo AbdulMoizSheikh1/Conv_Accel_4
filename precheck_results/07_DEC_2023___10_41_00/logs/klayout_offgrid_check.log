@@ -1,0 +1,267 @@
+2023-12-07 11:05:24 +0000: Memory Usage (622404K) : Starting running GF180MCU Klayout DRC runset on /home/shahid/Desktop/test123/caravel_user_project/gds/user_project_wrapper.gds
+2023-12-07 11:05:24 +0000: Memory Usage (622404K) : Ruby Version for klayout: 3.0.2
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : Loading database to memory is complete.
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : GF180MCU Klayout DRC runset output at: /home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/outputs/reports/klayout_offgrid_check.xml
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : Evaluate switches.
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : CONNECTIVITY_RULES enabled: true
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : Wedge enabled: false
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : Ball enabled: false
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : Gold enabled: false
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : MIM Option selected: B
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : Offgrid enabled:  true
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : Number of threads to use 8
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : Verbose mode: 
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : deep  mode is enabled.
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : METAL_TOP Selected is 11K
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : METAL_STACK Selected is 5LM
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : FEOL enabled: false
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : BEOL enabled: false
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : SLOW_VIA enabled: false
+2023-12-07 11:05:25 +0000: Memory Usage (822160K) : Read in polygons from layers.
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : comp has 518548 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : dnwell has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : nwell has 207742 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : lvpwell has 207742 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : dualgate has 207742 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : poly2 has 580834 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : nplus has 207742 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : pplus has 229259 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : sab has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : esd has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : resistor has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : fhres has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : fusetop has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : fusewindow_d has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : polyfuse has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : mvsd has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : mvpsd has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : nat has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : comp_dummy has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : poly2_dummy has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : schottky_diode has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : zener has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : res_mk has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : opc_drc has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : ndmy has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : pmndmy has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : v5_xtor has 207742 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : cap_mk has 0 polygons
+2023-12-07 11:05:26 +0000: Memory Usage (834712K) : mos_cap_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : ind_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : diode_mk has 17568 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : drc_bjt has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : lvs_bjt has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : mim_l_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : latchup_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : guard_ring_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : otp_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : mtpmark has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : neo_ee_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : sramcore has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : lvs_rf has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : lvs_drain has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : ind_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : hvpolyrs has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : lvs_io has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : probe_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : esd_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : lvs_source has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : well_diode_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : ldmos_xtor has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : plfuse has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : efuse_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : mcell_feol_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : ymtp_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : dev_wf_mk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : comp_label has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : poly2_label has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : mdiode has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (834712K) : contact has 2671999 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (840856K) : metal1_drawn has 1828985 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (840856K) : metal1_dummy has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (844184K) : metal1_label has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (844184K) : metal1_slot has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (844184K) : metal1_blk has 0 polygons
+2023-12-07 11:05:27 +0000: Memory Usage (848280K) : via1 has 223462 polygons
+2023-12-07 11:05:28 +0000: Memory Usage (860568K) : metal2_drawn has 391007 polygons
+2023-12-07 11:05:28 +0000: Memory Usage (860568K) : metal2_dummy has 0 polygons
+2023-12-07 11:05:28 +0000: Memory Usage (872744K) : metal2_label has 630 polygons
+2023-12-07 11:05:28 +0000: Memory Usage (872744K) : metal2_slot has 0 polygons
+2023-12-07 11:05:28 +0000: Memory Usage (872744K) : metal2_blk has 0 polygons
+2023-12-07 11:05:28 +0000: Memory Usage (872744K) : via2 has 180856 polygons
+2023-12-07 11:05:28 +0000: Memory Usage (872744K) : metal3_drawn has 100156 polygons
+2023-12-07 11:05:28 +0000: Memory Usage (872744K) : metal3_dummy has 0 polygons
+2023-12-07 11:05:28 +0000: Memory Usage (872744K) : metal3_label has 135 polygons
+2023-12-07 11:05:28 +0000: Memory Usage (872744K) : metal3_slot has 0 polygons
+2023-12-07 11:05:28 +0000: Memory Usage (872744K) : metal3_blk has 0 polygons
+2023-12-07 11:05:28 +0000: Memory Usage (872744K) : via3 has 23282 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal4_drawn has 4125 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal4_dummy has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal4_label has 90 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal4_slot has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal4_blk has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : via4 has 21344 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal5_drawn has 70 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal5_dummy has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal5_label has 70 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal5_slot has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal5_blk has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : pad has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : ubmpperi has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : ubmparray has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : ubmeplate has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal1_res has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal2_res has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal3_res has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal4_res has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal5_res has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : metal6_res has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : pr_bndry has 207744 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : border has 0 polygons
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : Total no. of polygons in the design is 8038874
+2023-12-07 11:05:29 +0000: Memory Usage (872744K) : Starting deriving base layers.
+2023-12-07 11:05:56 +0000: Memory Usage (1964692K) : Construct connectivity for the design.
+2023-12-07 11:05:56 +0000: Memory Usage (1964692K) : Connectivity rules enabled, Netlist object will be generated.
+2023-12-07 11:06:39 +0000: Memory Usage (2414156K) : Total area of the design is 8997120.228799999 um^2.
+2023-12-07 11:06:39 +0000: Memory Usage (2414156K) : Starting GF180MCU DRC rules.
+2023-12-07 11:06:39 +0000: Memory Usage (2414156K) : Executing rule DE.2
+2023-12-07 11:06:39 +0000: Memory Usage (2414156K) : Executing rule DE.3
+2023-12-07 11:06:39 +0000: Memory Usage (2414156K) : Executing rule DE.4
+2023-12-07 11:06:39 +0000: Memory Usage (2414156K) : Starting EFUSE derivations
+2023-12-07 11:06:39 +0000: Memory Usage (2414156K) : Executing rule EF.01
+2023-12-07 11:06:39 +0000: Memory Usage (2414156K) : Executing rule EF.02
+2023-12-07 11:06:39 +0000: Memory Usage (2414156K) : Executing rule EF.03
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.04a
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.04b
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.04c
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.04d
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.05
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.06
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.07
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.08
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.09
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.10
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.11
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.12
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.13
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.14
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.15
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.16a
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.16b
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.17
+2023-12-07 11:06:40 +0000: Memory Usage (2414156K) : Executing rule EF.18
+2023-12-07 11:06:41 +0000: Memory Usage (2414156K) : Executing rule EF.19
+2023-12-07 11:06:41 +0000: Memory Usage (2414156K) : Executing rule EF.20
+2023-12-07 11:06:41 +0000: Memory Usage (2414156K) : Executing rule EF.21
+2023-12-07 11:06:41 +0000: Memory Usage (2414156K) : Executing rule EF.22a
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule EF.22b
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : MIM Capacitor Option B section
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule MIMTM.1
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule MIMTM.2
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule MIMTM.3
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule MIMTM.4
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule MIMTM.5
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule MIMTM.6
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule MIMTM.7
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule MIMTM.8a
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule MIMTM.8b
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule MIMTM.9
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule MIMTM.10
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule MIMTM.11
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : OFFGRID-ANGLES section
+2023-12-07 11:06:42 +0000: Memory Usage (2414156K) : Executing rule comp_OFFGRID
+2023-12-07 11:06:43 +0000: Memory Usage (2414156K) : Executing rule dnwell_OFFGRID
+2023-12-07 11:06:43 +0000: Memory Usage (2414156K) : Executing rule nwell_OFFGRID
+2023-12-07 11:06:47 +0000: Memory Usage (2414156K) : Executing rule lvpwell_OFFGRID
+2023-12-07 11:06:52 +0000: Memory Usage (2414156K) : Executing rule dualgate_OFFGRID
+2023-12-07 11:06:57 +0000: Memory Usage (2432908K) : Executing rule poly2_OFFGRID
+2023-12-07 11:06:58 +0000: Memory Usage (2432908K) : Executing rule nplus_OFFGRID
+2023-12-07 11:07:02 +0000: Memory Usage (2432908K) : Executing rule pplus_OFFGRID
+2023-12-07 11:07:06 +0000: Memory Usage (2432908K) : Executing rule sab_OFFGRID
+2023-12-07 11:07:06 +0000: Memory Usage (2432908K) : Executing rule esd_OFFGRID
+2023-12-07 11:07:07 +0000: Memory Usage (2432908K) : Executing rule resistor_OFFGRID
+2023-12-07 11:07:07 +0000: Memory Usage (2432908K) : Executing rule fhres_OFFGRID
+2023-12-07 11:07:07 +0000: Memory Usage (2432908K) : Executing rule fusetop_OFFGRID
+2023-12-07 11:07:07 +0000: Memory Usage (2432908K) : Executing rule fusewindow_d_OFFGRID
+2023-12-07 11:07:07 +0000: Memory Usage (2432908K) : Executing rule polyfuse_OFFGRID
+2023-12-07 11:07:07 +0000: Memory Usage (2432908K) : Executing rule mvsd_OFFGRID
+2023-12-07 11:07:08 +0000: Memory Usage (2432908K) : Executing rule mvpsd_OFFGRID
+2023-12-07 11:07:08 +0000: Memory Usage (2432908K) : Executing rule nat_OFFGRID
+2023-12-07 11:07:08 +0000: Memory Usage (2432908K) : Executing rule comp_dummy_OFFGRID
+2023-12-07 11:07:08 +0000: Memory Usage (2432908K) : Executing rule poly2_dummy_OFFGRID
+2023-12-07 11:07:08 +0000: Memory Usage (2432908K) : Executing rule schottky_diode_OFFGRID
+2023-12-07 11:07:08 +0000: Memory Usage (2432908K) : Executing rule zener_OFFGRID
+2023-12-07 11:07:08 +0000: Memory Usage (2432908K) : Executing rule res_mk_OFFGRID
+2023-12-07 11:07:09 +0000: Memory Usage (2432908K) : Executing rule opc_drc_OFFGRID
+2023-12-07 11:07:09 +0000: Memory Usage (2432908K) : Executing rule ndmy_OFFGRID
+2023-12-07 11:07:09 +0000: Memory Usage (2432908K) : Executing rule pmndmy_OFFGRID
+2023-12-07 11:07:09 +0000: Memory Usage (2432908K) : Executing rule v5_xtor_OFFGRID
+2023-12-07 11:07:14 +0000: Memory Usage (2458508K) : Executing rule cap_mk_OFFGRID
+2023-12-07 11:07:14 +0000: Memory Usage (2458508K) : Executing rule mos_cap_mk_OFFGRID
+2023-12-07 11:07:14 +0000: Memory Usage (2458508K) : Executing rule ind_mk_OFFGRID
+2023-12-07 11:07:14 +0000: Memory Usage (2458508K) : Executing rule diode_mk_OFFGRID
+2023-12-07 11:07:15 +0000: Memory Usage (2458508K) : Executing rule drc_bjt_OFFGRID
+2023-12-07 11:07:15 +0000: Memory Usage (2458508K) : Executing rule lvs_bjt_OFFGRID
+2023-12-07 11:07:15 +0000: Memory Usage (2458508K) : Executing rule mim_l_mk_OFFGRID
+2023-12-07 11:07:15 +0000: Memory Usage (2458508K) : Executing rule latchup_mk_OFFGRID
+2023-12-07 11:07:16 +0000: Memory Usage (2458508K) : Executing rule guard_ring_mk_OFFGRID
+2023-12-07 11:07:16 +0000: Memory Usage (2458508K) : Executing rule otp_mk_OFFGRID
+2023-12-07 11:07:16 +0000: Memory Usage (2458508K) : Executing rule mtpmark_OFFGRID
+2023-12-07 11:07:16 +0000: Memory Usage (2458508K) : Executing rule neo_ee_mk_OFFGRID
+2023-12-07 11:07:16 +0000: Memory Usage (2458508K) : Executing rule sramcore_OFFGRID
+2023-12-07 11:07:16 +0000: Memory Usage (2458508K) : Executing rule lvs_rf_OFFGRID
+2023-12-07 11:07:16 +0000: Memory Usage (2458508K) : Executing rule lvs_drain_OFFGRID
+2023-12-07 11:07:17 +0000: Memory Usage (2458508K) : Executing rule ind_mk_OFFGRID
+2023-12-07 11:07:17 +0000: Memory Usage (2458508K) : Executing rule hvpolyrs_OFFGRID
+2023-12-07 11:07:17 +0000: Memory Usage (2458508K) : Executing rule lvs_io_OFFGRID
+2023-12-07 11:07:17 +0000: Memory Usage (2458508K) : Executing rule probe_mk_OFFGRID
+2023-12-07 11:07:17 +0000: Memory Usage (2458508K) : Executing rule esd_mk_OFFGRID
+2023-12-07 11:07:17 +0000: Memory Usage (2458508K) : Executing rule lvs_source_OFFGRID
+2023-12-07 11:07:17 +0000: Memory Usage (2458508K) : Executing rule well_diode_mk_OFFGRID
+2023-12-07 11:07:18 +0000: Memory Usage (2458508K) : Executing rule ldmos_xtor_OFFGRID
+2023-12-07 11:07:18 +0000: Memory Usage (2458508K) : Executing rule plfuse_OFFGRID
+2023-12-07 11:07:18 +0000: Memory Usage (2458508K) : Executing rule efuse_mk_OFFGRID
+2023-12-07 11:07:18 +0000: Memory Usage (2458508K) : Executing rule mcell_feol_mk_OFFGRID
+2023-12-07 11:07:18 +0000: Memory Usage (2458508K) : Executing rule ymtp_mk_OFFGRID
+2023-12-07 11:07:18 +0000: Memory Usage (2458508K) : Executing rule dev_wf_mk_OFFGRID
+2023-12-07 11:07:18 +0000: Memory Usage (2458508K) : Executing rule comp_label_OFFGRID
+2023-12-07 11:07:19 +0000: Memory Usage (2458508K) : Executing rule poly2_label_OFFGRID
+2023-12-07 11:07:19 +0000: Memory Usage (2458508K) : Executing rule mdiode_OFFGRID
+2023-12-07 11:07:19 +0000: Memory Usage (2458508K) : Executing rule contact_OFFGRID
+2023-12-07 11:07:20 +0000: Memory Usage (2458508K) : Executing rule metal1_OFFGRID
+2023-12-07 11:07:41 +0000: Memory Usage (2637992K) : Executing rule metal1_slot_OFFGRID
+2023-12-07 11:07:42 +0000: Memory Usage (2637992K) : Executing rule metal1_blk_OFFGRID
+2023-12-07 11:07:42 +0000: Memory Usage (2637992K) : Executing rule metal1_label_OFFGRID
+2023-12-07 11:07:42 +0000: Memory Usage (2637992K) : Executing rule via1_OFFGRID
+2023-12-07 11:07:44 +0000: Memory Usage (2637992K) : Executing rule metal2_OFFGRID
+2023-12-07 11:07:47 +0000: Memory Usage (2648744K) : Executing rule metal2_label_OFFGRID
+2023-12-07 11:07:48 +0000: Memory Usage (2648744K) : Executing rule metal2_slot_OFFGRID
+2023-12-07 11:07:48 +0000: Memory Usage (2648744K) : Executing rule metal2_blk_OFFGRID
+2023-12-07 11:07:48 +0000: Memory Usage (2648744K) : Executing rule via2_OFFGRID
+2023-12-07 11:07:50 +0000: Memory Usage (2648744K) : Executing rule metal3_OFFGRID
+2023-12-07 11:07:51 +0000: Memory Usage (2648744K) : Executing rule metal3_dummy_OFFGRID
+2023-12-07 11:07:51 +0000: Memory Usage (2648744K) : Executing rule metal3_label_OFFGRID
+2023-12-07 11:07:52 +0000: Memory Usage (2648744K) : Executing rule metal3_blk_OFFGRID
+2023-12-07 11:07:52 +0000: Memory Usage (2648744K) : Executing rule via3_OFFGRID
+2023-12-07 11:07:52 +0000: Memory Usage (2648744K) : Executing rule metal4_OFFGRID
+2023-12-07 11:07:53 +0000: Memory Usage (2648744K) : Executing rule metal4_dummy_OFFGRID
+2023-12-07 11:07:53 +0000: Memory Usage (2648744K) : Executing rule metal4_label_OFFGRID
+2023-12-07 11:07:53 +0000: Memory Usage (2648744K) : Executing rule metal4_blk_OFFGRID
+2023-12-07 11:07:53 +0000: Memory Usage (2648744K) : Executing rule via4_OFFGRID
+2023-12-07 11:07:53 +0000: Memory Usage (2648744K) : Executing rule metal5_OFFGRID
+2023-12-07 11:07:54 +0000: Memory Usage (2648744K) : Executing rule metal5_dummy_OFFGRID
+2023-12-07 11:07:54 +0000: Memory Usage (2648744K) : Executing rule metal5_label_OFFGRID
+2023-12-07 11:07:54 +0000: Memory Usage (2648744K) : Executing rule metal5_blk_OFFGRID
+2023-12-07 11:07:54 +0000: Memory Usage (2648744K) : Executing rule pad_OFFGRID
+2023-12-07 11:07:54 +0000: Memory Usage (2648744K) : Executing rule ubmpperi_OFFGRID
+2023-12-07 11:07:55 +0000: Memory Usage (2648744K) : Executing rule ubmparray_OFFGRID
+2023-12-07 11:07:55 +0000: Memory Usage (2648744K) : Executing rule ubmeplate_OFFGRID
+2023-12-07 11:07:55 +0000: Memory Usage (2648744K) : Executing rule metal1_res_OFFGRID
+2023-12-07 11:07:55 +0000: Memory Usage (2648744K) : Executing rule metal2_res_OFFGRID
+2023-12-07 11:07:55 +0000: Memory Usage (2648744K) : Executing rule metal3_res_OFFGRID
+2023-12-07 11:07:55 +0000: Memory Usage (2648744K) : Executing rule metal4_res_OFFGRID
+2023-12-07 11:07:55 +0000: Memory Usage (2648744K) : Executing rule metal5_res_OFFGRID
+2023-12-07 11:07:56 +0000: Memory Usage (2648744K) : Executing rule metal6_res_OFFGRID
+2023-12-07 11:07:56 +0000: Memory Usage (2648744K) : Executing rule pr_bndry_OFFGRID
+2023-12-07 11:08:02 +0000: Memory Usage (2648744K) : Executing rule border_OFFGRID
+2023-12-07 11:08:02 +0000: Memory Usage (2648744K) :  DRC Total Run time 157.450988083 seconds

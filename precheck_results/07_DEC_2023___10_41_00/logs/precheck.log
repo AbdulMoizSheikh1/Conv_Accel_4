@@ -1,0 +1,80 @@
+2023-12-07 10:41:00 - [INFO] - {{EXTRACTING FILES}} Extracting compressed files in: /home/shahid/Desktop/test123/caravel_user_project
+2023-12-07 10:41:00 - [INFO] - {{Project Type Info}} digital
+2023-12-07 10:41:00 - [INFO] - {{Project GDS Info}} user_project_wrapper: 229b3ec2fd5610d28c8f3a7e6dbfe36fba018372
+2023-12-07 10:41:04 - [INFO] - {{Tools Info}} KLayout: v0.28.12 | Magic: v8.3.420
+2023-12-07 10:41:04 - [INFO] - {{PDKs Info}} GF180MCUD: a897aa30369d3bcec87d9d50ce9b01f320f854ef | Open PDKs: 559a117b163cef2f920f33f30f6f690aa0b47e4c
+2023-12-07 10:41:04 - [INFO] - {{START}} Precheck Started, the full log 'precheck.log' will be located in '/home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/logs'
+2023-12-07 10:41:04 - [INFO] - {{PRECHECK SEQUENCE}} Precheck will run the following checks: [License, Makefile, Default, Documentation, GPIO-Defines, XOR, Klayout FEOL, Klayout BEOL, Klayout Offgrid, Klayout Metal Minimum Clear Area Density, OEB, LVS]
+2023-12-07 10:41:04 - [INFO] - {{STEP UPDATE}} Executing Check 1 of 12: License
+2023-12-07 10:41:05 - [INFO] - An approved LICENSE (Apache-2.0) was found in /home/shahid/Desktop/test123/caravel_user_project.
+2023-12-07 10:41:05 - [INFO] - {{MAIN LICENSE CHECK PASSED}} An approved LICENSE was found in project root.
+2023-12-07 10:41:05 - [INFO] - An approved LICENSE (Apache-2.0) was found in /home/shahid/Desktop/test123/caravel_user_project.
+2023-12-07 10:41:06 - [INFO] - An approved LICENSE (Apache-2.0) was found in /home/shahid/Desktop/test123/caravel_user_project.
+2023-12-07 10:41:07 - [INFO] - An approved LICENSE (Apache-2.0) was found in /home/shahid/Desktop/test123/caravel_user_project.
+2023-12-07 10:41:07 - [INFO] - An approved LICENSE (Apache-2.0) was found in /home/shahid/Desktop/test123/caravel_user_project.
+2023-12-07 10:41:07 - [INFO] - {{SUBMODULES LICENSE CHECK PASSED}} No prohibited LICENSE file(s) was found in project submodules
+2023-12-07 10:41:08 - [WARNING] - {{SPDX COMPLIANCE CHECK FAILED}} Found 10 non-compliant file(s) with the SPDX Standard.
+2023-12-07 10:41:08 - [INFO] - SPDX COMPLIANCE: NON-COMPLIANT FILE(S) PREVIEW: ['/home/shahid/Desktop/test123/caravel_user_project/verilog/rtl/buffer_top_64x8.v', '/home/shahid/Desktop/test123/caravel_user_project/verilog/rtl/engine_3x3_2_2.v', '/home/shahid/Desktop/test123/caravel_user_project/verilog/rtl/top_wb_4_short.v', '/home/shahid/Desktop/test123/caravel_user_project/verilog/rtl/top_4_engine.v', '/home/shahid/Desktop/test123/caravel_user_project/verilog/rtl/controller_buff_top.v', '/home/shahid/Desktop/test123/caravel_user_project/verilog/rtl/reset_bridge.v', '/home/shahid/Desktop/test123/caravel_user_project/verilog/rtl/PE_2x2.v', '/home/shahid/Desktop/test123/caravel_user_project/verilog/includes/includes.rtl.caravel_user_project', '/home/shahid/Desktop/test123/caravel_user_project/verilog/includes/includes.gl+sdf.caravel_user_project', '/home/shahid/Desktop/test123/caravel_user_project/verilog/includes/includes.gl.caravel_user_project']
+2023-12-07 10:41:08 - [INFO] - For the full SPDX compliance report check: /home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/logs/spdx_compliance_report.log
+2023-12-07 10:41:08 - [INFO] - {{STEP UPDATE}} Executing Check 2 of 12: Makefile
+2023-12-07 10:41:08 - [INFO] - {{MAKEFILE CHECK PASSED}} Makefile valid.
+2023-12-07 10:41:08 - [INFO] - {{STEP UPDATE}} Executing Check 3 of 12: Default
+2023-12-07 10:41:08 - [INFO] - {{README DEFAULT CHECK PASSED}} Project 'README.md' was modified and is not identical to the default 'README.md'
+2023-12-07 10:41:09 - [INFO] - {{CONTENT DEFAULT CHECK PASSED}} Project 'gds' was modified and is not identical to the default 'gds'
+2023-12-07 10:41:09 - [INFO] - {{STEP UPDATE}} Executing Check 4 of 12: Documentation
+2023-12-07 10:41:10 - [INFO] - {{DOCUMENTATION CHECK PASSED}} Project documentation is appropriate.
+2023-12-07 10:41:10 - [INFO] - {{STEP UPDATE}} Executing Check 5 of 12: GPIO-Defines
+2023-12-07 10:41:10 - [INFO] - GPIO-DEFINES: Checking verilog/rtl/user_defines.v, parsing files: ['/home/shahid/mpw_precheck/checks/gpio_defines_check/verilog_assets/gpio_modes_base.v', '/home/shahid/Desktop/test123/caravel_user_project/verilog/rtl/user_defines.v', '/home/shahid/mpw_precheck/checks/gpio_defines_check/verilog_assets/gpio_modes_observe.v']
+2023-12-07 10:41:11 - [INFO] - GPIO-DEFINES report path: /home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/outputs/reports/gpio_defines.report
+2023-12-07 10:41:11 - [INFO] - {{GPIO-DEFINES CHECK PASSED}} The user verilog/rtl/user_defines.v is valid.
+2023-12-07 10:41:11 - [INFO] - {{STEP UPDATE}} Executing Check 6 of 12: XOR
+2023-12-07 10:42:16 - [INFO] - {{XOR CHECK UPDATE}} Total XOR differences: 0, for more details view /home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/outputs/user_project_wrapper.xor.gds
+2023-12-07 10:42:16 - [INFO] - {{XOR CHECK PASSED}} The GDS file has no XOR violations.
+2023-12-07 10:42:16 - [INFO] - {{STEP UPDATE}} Executing Check 7 of 12: Klayout FEOL
+2023-12-07 10:42:16 - [INFO] - in CUSTOM klayout_gds_drc_check
+2023-12-07 10:42:16 - [INFO] - run: klayout -b -r /home/shahid/mpw_precheck/checks/tech-files/gf180mcuD_mr.drc -rd input=/home/shahid/Desktop/test123/caravel_user_project/gds/user_project_wrapper.gds -rd topcell=user_project_wrapper -rd report=/home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/outputs/reports/klayout_feol_check.xml -rd thr=8 -rd feol=true -rd metal_top=11K -rd mim_option=B -rd metal_level=5LM -rd conn_drc=true -rd run_mode=deep >& /home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/logs/klayout_feol_check.log
+2023-12-07 10:59:01 - [INFO] - No DRC Violations found
+2023-12-07 10:59:01 - [INFO] - {{Klayout FEOL CHECK PASSED}} The GDS file, user_project_wrapper.gds, has no DRC violations.
+2023-12-07 10:59:01 - [INFO] - {{STEP UPDATE}} Executing Check 8 of 12: Klayout BEOL
+2023-12-07 10:59:01 - [INFO] - in CUSTOM klayout_gds_drc_check
+2023-12-07 10:59:01 - [INFO] - run: klayout -b -r /home/shahid/mpw_precheck/checks/tech-files/gf180mcuD_mr.drc -rd input=/home/shahid/Desktop/test123/caravel_user_project/gds/user_project_wrapper.gds -rd topcell=user_project_wrapper -rd report=/home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/outputs/reports/klayout_beol_check.xml -rd thr=8 -rd beol=true -rd metal_top=11K -rd mim_option=B -rd metal_level=5LM -rd conn_drc=true -rd run_mode=deep >& /home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/logs/klayout_beol_check.log
+2023-12-07 11:05:23 - [INFO] - No DRC Violations found
+2023-12-07 11:05:23 - [INFO] - {{Klayout BEOL CHECK PASSED}} The GDS file, user_project_wrapper.gds, has no DRC violations.
+2023-12-07 11:05:23 - [INFO] - {{STEP UPDATE}} Executing Check 9 of 12: Klayout Offgrid
+2023-12-07 11:05:23 - [INFO] - in CUSTOM klayout_gds_drc_check
+2023-12-07 11:05:23 - [INFO] - run: klayout -b -r /home/shahid/mpw_precheck/checks/tech-files/gf180mcuD_mr.drc -rd input=/home/shahid/Desktop/test123/caravel_user_project/gds/user_project_wrapper.gds -rd topcell=user_project_wrapper -rd report=/home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/outputs/reports/klayout_offgrid_check.xml -rd thr=8 -rd offgrid=true -rd metal_top=11K -rd mim_option=B -rd metal_level=5LM -rd conn_drc=true -rd run_mode=deep >& /home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/logs/klayout_offgrid_check.log
+2023-12-07 11:08:03 - [INFO] - No DRC Violations found
+2023-12-07 11:08:03 - [INFO] - {{Klayout Offgrid CHECK PASSED}} The GDS file, user_project_wrapper.gds, has no DRC violations.
+2023-12-07 11:08:03 - [INFO] - {{STEP UPDATE}} Executing Check 10 of 12: Klayout Metal Minimum Clear Area Density
+2023-12-07 11:08:03 - [INFO] - in CUSTOM klayout_gds_drc_check
+2023-12-07 11:08:03 - [INFO] - run: klayout -b -r /home/shahid/mpw_precheck/checks/drc_checks/klayout/gf180mcu_density.lydrc -rd input=/home/shahid/Desktop/test123/caravel_user_project/gds/user_project_wrapper.gds -rd topcell=user_project_wrapper -rd report=/home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/outputs/reports/klayout_met_min_ca_density_check.xml -rd thr=8 >& /home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/logs/klayout_met_min_ca_density_check.log
+2023-12-07 11:08:06 - [INFO] - No DRC Violations found
+2023-12-07 11:08:06 - [INFO] - {{Klayout Metal Minimum Clear Area Density CHECK PASSED}} The GDS file, user_project_wrapper.gds, has no DRC violations.
+2023-12-07 11:08:06 - [INFO] - {{STEP UPDATE}} Executing Check 11 of 12: OEB
+2023-12-07 11:08:06 - [INFO] - Loading LVS environment from /home/shahid/Desktop/test123/caravel_user_project/lvs/user_project_wrapper/lvs_config.json
+2023-12-07 11:08:06 - [INFO] - EXTRACT_FLATGLOB : 
+2023-12-07 11:08:06 - [INFO] - EXTRACT_ABSTRACT : *__fill_* *__fakediode_* *__tapvpwrvgnd_*
+2023-12-07 11:08:06 - [INFO] - LVS_FLATTEN : 
+2023-12-07 11:08:06 - [INFO] - LVS_NOFLATTEN : 
+2023-12-07 11:08:06 - [INFO] - LVS_IGNORE : 
+2023-12-07 11:08:06 - [INFO] - LVS_SPICE_FILES : /home/shahid/Desktop/test123/pdk/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/spice/gf180mcu_fd_sc_mcu7t5v0.spice
+2023-12-07 11:08:06 - [INFO] - LVS_VERILOG_FILES : /home/shahid/Desktop/test123/caravel_user_project/verilog/gl/user_proj_example.v /home/shahid/Desktop/test123/caravel_user_project/verilog/gl/user_project_wrapper.v
+2023-12-07 11:08:06 - [INFO] - LAYOUT_FILE : /home/shahid/Desktop/test123/caravel_user_project/gds/user_project_wrapper.gds
+2023-12-07 11:08:06 - [INFO] - run: run_oeb_check
+2023-12-07 11:08:06 - [INFO] - OEB output directory: /home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00
+2023-12-07 11:21:01 - [INFO] - {{OEB CHECK PASSED}} The design, user_project_wrapper, has no OEB violations.
+2023-12-07 11:21:01 - [INFO] - {{STEP UPDATE}} Executing Check 12 of 12: LVS
+2023-12-07 11:21:01 - [INFO] - Loading LVS environment from /home/shahid/Desktop/test123/caravel_user_project/lvs/user_project_wrapper/lvs_config.json
+2023-12-07 11:21:01 - [INFO] - EXTRACT_FLATGLOB : 
+2023-12-07 11:21:01 - [INFO] - EXTRACT_ABSTRACT : *__fill_* *__fakediode_* *__tapvpwrvgnd_*
+2023-12-07 11:21:01 - [INFO] - LVS_FLATTEN : 
+2023-12-07 11:21:01 - [INFO] - LVS_NOFLATTEN : 
+2023-12-07 11:21:01 - [INFO] - LVS_IGNORE : 
+2023-12-07 11:21:01 - [INFO] - LVS_SPICE_FILES : /home/shahid/Desktop/test123/pdk/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/spice/gf180mcu_fd_sc_mcu7t5v0.spice
+2023-12-07 11:21:01 - [INFO] - LVS_VERILOG_FILES : /home/shahid/Desktop/test123/caravel_user_project/verilog/gl/user_proj_example.v /home/shahid/Desktop/test123/caravel_user_project/verilog/gl/user_project_wrapper.v
+2023-12-07 11:21:01 - [INFO] - LAYOUT_FILE : /home/shahid/Desktop/test123/caravel_user_project/gds/user_project_wrapper.gds
+2023-12-07 11:21:01 - [INFO] - run: run_be_checks
+2023-12-07 11:21:01 - [INFO] - LVS output directory: /home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00
+2023-12-07 11:40:55 - [INFO] - {{LVS CHECK PASSED}} The design, user_project_wrapper, has no LVS violations.
+2023-12-07 11:40:55 - [INFO] - {{FINISH}} Executing Finished, the full log 'precheck.log' can be found in '/home/shahid/Desktop/test123/caravel_user_project/precheck_results/07_DEC_2023___10_41_00/logs'
+2023-12-07 11:40:55 - [INFO] - {{SUCCESS}} All Checks Passed !!!
